@@ -1,8 +1,4 @@
 
-
----
-
-````markdown
 # icon_dump
 
 一个基于 Go 的小工具，用于在 **Windows** 系统下提取文件、文件夹或快捷方式（.lnk）的图标，并保存为 PNG 格式。
@@ -23,7 +19,7 @@
 1. 构建：
    ```bash
    go build -o icon_dump.exe
-````
+   ```
 
 2. 执行：
 
